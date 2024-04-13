@@ -1,0 +1,21 @@
+ #title{
+    font-size: 2.5rem;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 2rem;
+}
+
+#submit {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1rem;
+
+}
+
+#full-page {
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}

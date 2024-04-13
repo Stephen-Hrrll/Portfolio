@@ -1,0 +1,33 @@
+#title{
+    font-size: 2.5rem;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 2rem;
+}
+.my-name {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* This centers vertically in the flex column */
+    height: 100%;
+}
+
+.my-name h2 {
+    margin: 0;
+    font-size: 400%;
+}
+
+.social-icon {
+    text-align: center;
+    font-size: 2rem; /* Example size, adjust as needed */
+    color: #007bff; /* Bootstrap primary color for example */
+}
+
+.bio-container {
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.bio-container p {
+    margin-left: 5%;
+}
