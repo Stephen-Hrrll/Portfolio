@@ -1,0 +1,71 @@
+ #contact-title{
+    color: var(--primary-text-color);
+    font-size: 2.5rem;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 2rem;
+}
+
+#submit {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1rem;
+    background-color: var(--sub-blue);
+    color: var(--primary-dark);
+    border: none;
+}
+
+#fill-page {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; /* Aligns children (form and footer) on the main axis */
+    min-height: 100vh; /* Full viewport height */
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem 0; /* Adds padding to the top and bottom */
+}
+
+/* Ensures that the form itself does not shrink or grow disproportionately */
+#form {
+    flex: 1;
+}
+
+#thanks {
+    font-size: 1.5rem;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 25%;
+    
+}
+
+.labels {
+    color: var(--primary-text-color);
+}
+
+.input-area {
+    background-color: var(--secondary-background-color);
+    color: var(--sub-green);
+    border-radius: 10px;
+    border: none;
+    margin: 1rem;
+    padding: 1rem;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s;
+}
+.input-area:hover {
+    transform: scale(1.05);
+}
+
+.input-area:focus-within {
+    background-color: var(--secondary-background-color);
+    color: var(--sub-green);
+}
+
