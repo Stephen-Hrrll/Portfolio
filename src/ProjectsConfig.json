@@ -4,14 +4,14 @@
         {
             "title" : "NodeBook",
             "description" : "This is a project I am currently working on. Implemented with PySide6, It is an IDE for Python utilizing a node based GUI for organizing code cells. It is designed to be a mashup of Jupyter Notebook and ComfyUI.",
-            "image" : "/portfolio/images/NodeBook.png",
+            "image" : "https://i.ibb.co/HDhjwCS/NodeBook.png",
             "link" : "https://github.com/Stephen-Hrrll/NodeBook",
             "tags" : ["Python", "Pyside6", "Qt6"]
         },
         {
             "title" : "F1 Replay",
             "description" : "A simple app built with React that fetches F1 race results from the Fast_F1 API. It dispays the results and also uses driver telemetry data to plot the race track and animate the drivers around the track.",
-            "image" : "/portfolio/images/f1_replay.png",
+            "image" : "https://i.ibb.co/ctRWwgw/f1-replay.png",
             "link" : "https://github.com/Stephen-Hrrll/F1_Replay",
             "tags" : ["HTML", "CSS", "JavaScript", "Python", "Flask", "React"]
         },

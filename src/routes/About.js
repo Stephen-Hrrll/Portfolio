@@ -22,7 +22,7 @@ const About = () => {
                     </div>
                 </Col>
                 <Col xs={12} md={6}>
-                    <Image src="portfolio/images/profile_pic.png" fluid className="frosted-image"/>
+                    <Image src="https://i.ibb.co/PhryrfQ/profile-pic.png" fluid className="frosted-image"/>
                 </Col>
             </Row>
             <Row className="my-3">
