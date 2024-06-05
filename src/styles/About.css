@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 #title{
+=======
+#about-title{
+    color : var(--primary-text-color);
+>>>>>>> gh-pages
     font-size: 2.5rem;
     margin-left: auto;
     margin-right: auto;
@@ -6,6 +11,10 @@
     margin-top: 2rem;
 }
 .my-name {
+<<<<<<< HEAD
+=======
+    color: var(--sub-red);
+>>>>>>> gh-pages
     display: flex;
     flex-direction: column;
     justify-content: center; /* This centers vertically in the flex column */
@@ -22,6 +31,16 @@
     font-size: 2rem; /* Example size, adjust as needed */
     color: #007bff; /* Bootstrap primary color for example */
 }
+<<<<<<< HEAD
+=======
+#github a{
+    margin-left: 50%;
+}
+
+#linkedin a{
+    margin-right: 50%;
+}
+>>>>>>> gh-pages
 
 .bio-container {
     max-width: 700px;
@@ -30,4 +49,24 @@
 }
 .bio-container p {
     margin-left: 5%;
+<<<<<<< HEAD
+=======
+}
+/* bio header */
+.bio-container h3 {
+    color: var(--primary-text-color);
+}
+/* bio text */
+.bio-container p{
+    color: var(--primary-text-color);
+
+}
+
+
+.frosted-image {
+    background-color: rgba(255, 255, 255, 0.5);
+    backdrop-filter: blur(1);
+    -webkit-backdrop-filter: blur(1); /* For Safari compatibility */
+    border-radius: 10px; 
+>>>>>>> gh-pages
 }

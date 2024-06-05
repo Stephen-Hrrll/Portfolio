@@ -1,3 +1,15 @@
+<<<<<<< HEAD
+=======
+#project-title {
+    color: var(--primary-text-color);
+    font-size: 2.5rem;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 2rem;
+}
+
+>>>>>>> gh-pages
 .container h1 {
     font-size: 2.5rem;
     margin-left: auto;
@@ -11,3 +23,26 @@
     overflow-y: auto;
 }
 
+<<<<<<< HEAD
+=======
+
+.card {
+    background-color: var(--secondary-background-color);
+    color: var(--primary-text-color);
+    border-radius: 10px;
+    margin: 1rem;
+    padding: 1rem;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s;
+}
+.card:hover {
+    transform: scale(1.05);
+}
+
+.card-title {
+    color: var(--sub-blue);
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    text-align: center;
+}
+>>>>>>> gh-pages
