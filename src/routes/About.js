@@ -22,7 +22,7 @@ const About = () => {
                     </div>
                 </Col>
                 <Col xs={12} md={6}>
-                    <Image src="https://media.istockphoto.com/id/1208985997/photo/portrait-of-grey-wolf-in-the-forest.jpg?s=612x612&w=0&k=20&c=QQiPZ_L_bw6h82SO1cRizZv8-qvvn4xa3q1RQib7Huc=" fluid className="frosted-image"/>
+                    <Image src="portfolio/images/profile_pic.png" fluid className="frosted-image"/>
                 </Col>
             </Row>
             <Row className="my-3">
