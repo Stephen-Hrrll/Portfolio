@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-This is a working copy of my portfolio webpage made in React.
-=======
+##The gh-pages branch is only for deployment, any updates to the portfolio should be made on the master branch
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -71,4 +70,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> gh-pages
