@@ -1,10 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-<<<<<<< HEAD
-import './index.css';
-=======
 import './styles/index.css';
->>>>>>> gh-pages
 import { RouterProvider } from 'react-router-dom';
 import { Router } from './Router';
 import reportWebVitals from './reportWebVitals';
