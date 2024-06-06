@@ -13,21 +13,7 @@
             "description" : "A simple app built with React that fetches F1 race results from the Fast_F1 API. It dispays the results and also uses driver telemetry data to plot the race track and animate the drivers around the track.",
             "image" : "https://i.ibb.co/ctRWwgw/f1-replay.png",
             "link" : "https://github.com/Stephen-Hrrll/F1_Replay",
-            "tags" : ["HTML", "CSS", "JavaScript", "Python", "Flask", "React"]
-        },
-        {
-            "title" : "Project 3",
-            "description" : "This is a project again Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, eligendi at libero fugiat ipsa quaerat quam enim aliquam deleniti voluptatibus placeat repellat obcaecati eos repudiandae, nam reprehenderit sit maxime animi!",
-            "image" : "https://dummyimage.com/sqrpop",
-            "link" : "https://github.com/Stephen-Hrrll",
-            "tags" : ["HTML", "CSS", "JavaScript"]
-        },
-        {
-            "title" : "Project 4",
-            "description" : "This is a project too Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, eligendi at libero fugiat ipsa quaerat quam enim aliquam deleniti voluptatibus placeat repellat obcaecati eos repudiandae, nam reprehenderit sit maxime animi!",
-            "image" : "https://dummyimage.com/sqrpop",
-            "link" : "https://github.com/Stephen-Hrrll",
-            "tags" : ["HTML", "CSS", "JavaScript"]
+            "tags" : ["JavaScript", "Python", "Flask", "React"]
         }
     ]
 }
